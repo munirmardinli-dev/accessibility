@@ -1,0 +1,41 @@
+{
+	"recommendations": [
+		//Auto Import for automatic import statements
+		"steoates.autoimport",
+		//CodeQL for Code analysis
+		"GitHub.vscode-codeql",
+		//CodeSnap for code snapshots
+		"adpyke.codesnap",
+		// Error Lens for error highlighting and quick fixes
+		"usernamehw.errorlens",
+		// Eslint for JavaScript and TypeScript linting
+		"dbaeumer.vscode-eslint",
+		// German language pack for VS Code
+		"MS-CEINTL.vscode-language-pack-de",
+		// Github Actions for GitHub Actions support
+		"GitHub.vscode-github-actions",
+		// Github Copilot for AI-powered code suggestions
+		"GitHub.copilot",
+		// Github Chat for AI-powered chat support
+		"GitHub.copilot-chat",
+		// Import Cost for displaying import sizes
+		"wix.vscode-import-cost",
+		// IntelliCode for AI-assisted code suggestions
+		"VisualStudioExptTeam.intellicode-api-usage-examples",
+		// Typescript Error Lens for TypeScript error highlighting
+		"yoavbls.pretty-ts-errors",
+		// Prisma for Prisma schema support
+		"Prisma.prisma",
+		// Codeium for AI-powered code suggestions
+		"Codeium.codeium",
+		// YAML support for YAML files
+		"redhat.vscode-yaml",
+		// Catppuccin Theme for a modern theme
+		"Siris01.catppuccin-theme",
+		"Trunk.io",
+		"CodeRabbit.coderabbit-vscode",
+		"codacy-app.codacy",
+		"christian-kohler.path-intellisense",
+		"ionutvmi.path-autocomplete"
+	]
+}
